@@ -124,18 +124,3 @@ pneumonia_detection.ipynb
 
 ---
 
-## Citation
-
-```
-@misc{domain-robust-pneumonia-2026,
-  title={Domain-Robust Pneumonia Detection},
-  author={Your Name},
-  year={2026}
-}
-```
-
----
-
-## License
-
-MIT License
